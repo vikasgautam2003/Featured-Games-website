@@ -1,5 +1,35 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
+
+🎮 Gaming Portal - Next.js Intercepting Routes Project
+This project is a modern gaming website built using Next.js App Router, focusing on intercepting routes to manage navigation flow and UI transitions. It features a login interface and pages for the most popular games of the decade.
+
+🚀 Features
+🌐 Built with Next.js App Router (app directory)
+
+🧭 Uses Intercepting Routes for seamless game details modal/routing
+
+🎨 Fully responsive UI with Tailwind CSS
+
+🔐 Login page for user authentication UI (frontend only)
+
+🕹️ Showcases top games with cards and route-based modals/pages
+
+
+🔧 Tech Stack
+Next.js 14+ with App Router
+
+React 18+
+
+Tailwind CSS for styling
+
+React Icons for UI icons
+
+TypeScript (optional, depending on your setup)
+
+
+
+
 ## Getting Started
 
 First, run the development server:
