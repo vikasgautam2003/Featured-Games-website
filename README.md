@@ -1,7 +1,8 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
-
 
 🎮 Gaming Portal - Next.js Intercepting Routes Project
+
+This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+
 This project is a modern gaming website built using Next.js App Router, focusing on intercepting routes to manage navigation flow and UI transitions. It features a login interface and pages for the most popular games of the decade.
 
 🚀 Features
